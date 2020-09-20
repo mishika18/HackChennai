@@ -21,12 +21,12 @@
 
  @media only screen and (max-width: 600px){
 .gallery img{
-    width: 100%;
+    width: 75%;
     height:30%;
 
 }
 .gallery img:hover{
-    width: 100%;
+    width: 75%;
     height:30%;
 }
 }
