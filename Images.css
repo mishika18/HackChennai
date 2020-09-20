@@ -16,3 +16,15 @@
      width: 48%; 
  
  }
+
+
+
+ @media only screen and (max-width: 600px){
+.gallery img{
+    width: 100%;
+
+}
+.gallery img:hover{
+    width: 100%;
+}
+}
