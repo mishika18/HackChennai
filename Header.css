@@ -44,7 +44,7 @@ strong{
     font-size: 19px;
 }
 @media only screen and (max-width: 600px){
-.topnav{
+.topnav a{
     float:none;
     display:block;
 }
