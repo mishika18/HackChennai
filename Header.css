@@ -43,4 +43,11 @@ strong{
     color: greenyellow;
     font-size: 19px;
 }
+@media only screen and (max-width: 600px){
+.topnav{
+    float:none;
+    dispaly:block;
+}
+}
+
 
