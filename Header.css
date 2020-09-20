@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(128, 210, 248);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+div{
+    float: left;
+    padding:3px 8px 3px 8px;  
+    margin-bottom: 15px;
+}
+
+
+a{
+    color: snow;
+}
+
+.nav a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 19px ;
+    
+    
+}
+
+.topnav {
+    float: left;
+    overflow: hidden;
+    background-color: #333;
+    width:98.5%;
+    text-align: center;
+  }
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    display: block;
+}
+
+strong{
+    color: greenyellow;
+    font-size: 19px;
+}
+
+@media only screen and (min-width: 768px){
+
+}
