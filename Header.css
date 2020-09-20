@@ -46,8 +46,10 @@ strong{
 @media only screen and (max-width: 600px){
 .topnav{
     float:none;
-    dispaly:block;
+    display:block;
 }
-}
+    .nav a{
+        font-size:100%;
+    }}
 
 
