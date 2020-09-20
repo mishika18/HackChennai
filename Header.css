@@ -13,12 +13,14 @@ div{
 a{
     color: snow;
 }
-
+.nav div{
+width:11%;
+}
 .nav a {
     color: white;
     text-align: center;
     text-decoration: none;
-    font-size: 19px ;
+    font-size: 120% ;
     
     
 }
@@ -27,7 +29,7 @@ a{
     float: left;
     overflow: hidden;
     background-color: #333;
-    width:98.5%;
+    width:100%;
     text-align: center;
   }
 
@@ -42,6 +44,3 @@ strong{
     font-size: 19px;
 }
 
-@media only screen and (min-width: 768px){
-
-}
